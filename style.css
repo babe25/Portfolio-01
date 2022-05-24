@@ -92,4 +92,43 @@ a#tai::after {
 
 .project {
     margin-top: 15rem;
+    margin-bottom: 8rem;
+}
+
+.contact {
+    margin-top: 15rem;
+}
+
+.form-tai {
+    border: none;
+    border-bottom: 1px solid rgb(178, 178, 178);
+    outline: none;
+    width: 100%;
+    margin-top: 10px;
+    /* background-color: #eaeaea; */
+    font-size: 18px;
+}
+
+.form-tai:focus {
+    border-bottom: 1px solid red;
+    outline: none;
+}
+
+.form-group {
+    margin-top: 18px;
+    /* background-color: #0d6efd; */
+}
+
+.cobaa {
+    box-shadow: 5px 5px 20px rgb(202, 202, 202);
+}
+
+footer {
+    margin-top: 18rem;
+    padding-bottom: 2px;
+    padding-top: 7px;
+}
+
+.halloo {
+    box-shadow: 5px 5px 15px rgb(202, 202, 202);
 }
